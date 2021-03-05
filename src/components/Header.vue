@@ -10,14 +10,17 @@
         .brand-line-primary
 
         template(v-if="$route.path.includes('curso')")
-          .keywords(v-if="selectedMenuItem.hasOwnProperty('tags')")
-            span.badge.badge-pill.badge-light.mr-2(v-for="tag of selectedMenuItem.tags" :ref="'tag-'+tag") {{'#'+tag}}
+          .keywords
+            span.badge.badge-pill.badge-dark.mr-2(
+              v-for="tag of globalData.palabrasClave", 
+              :ref="'tag-'+tag"
+            ) {{'#'+tag}}
 
           .barra-dots.mt-5
             img.img-fluid(src='@/assets/images/header/icon_dots.svg', alt='alt')
 
         template(v-else)
-          p.curso-descripcion(v-html="globalData.descripcionCurso")
+          p.curso-descripcion.mb-4(v-html="globalData.descripcionCurso")
 
         template(v-if="$route.name === 'inicio'")
           router-link.curso-btn-iniciar.btn.btn-light(:to="{name: 'curso'}")
@@ -33,12 +36,6 @@
 import { global } from '../config/global'
 export default {
   name: 'HeaderComponent',
-  props: {
-    selectedMenuItem: {
-      type: Object,
-      default: () => ({}),
-    },
-  },
   data: () => ({
     globalData: global,
     imagen: require('@/assets/images/pages/ilustraciones/group16263.svg'),
@@ -47,7 +44,17 @@ export default {
 </script>
 <style scoped lang="sass">
 .curso-portada
-  padding: 2rem 2rem 2rem
+  padding: 2rem 0 2rem
+  background: url(../assets/images/header/header_pattern.svg) scroll bottom center repeat
+
+.curso-subtitulo
+  color: $white
+
+.curso-titulo
+  color: $white
+
+.curso-descripcion
+  color: $white
 
 .badge
   background-color: $tags-bg-color

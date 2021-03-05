@@ -111,7 +111,7 @@ export default {
     &__title
       bottom: 0
       display: block
-      font-size: .7em
+      font-size: .6em
       line-height: 1em
       text-align: center
 

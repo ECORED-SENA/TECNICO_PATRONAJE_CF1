@@ -1,15 +1,13 @@
 export const global = {
-  programaFormacion: 'Investigación',
-  componenteFormativo: 'Fundamentos de investigación',
+  programaFormacion: 'Técnico en patronaje industrial de prendas de vestir',
+  componenteFormativo: 'Características de diseño y fundamentación textil',
   descripcionCurso:
-    'La investigación formativa tiene como objetivo la apropiación de conocimientos técnicos y tecnológicos, para la identificación y solución de problemas   en contextos sociales y productivos del país. <br><br>En el desarrollo de la competencia “Orientar investigación formativa según referentes técnicos"  se pretende integrar en el proceso formativo los componentes metodológicos para la formulación básica de proyectos de investigación, partiendo desde la identificación de un problema, la generación de ideas, el planteamiento de la pregunta de investigación, la determinación de objetivos, el reconocimiento de un marco teórico y el desarrollo metodológico para un ejercicio básico de investigación.<br><br>Desde esta perspectiva la investigación se convierte en una herramienta de aprendizaje para el aprendizaje, no solo es el componente metodológico, es una forma sistemática de organizar el pensamiento hasta convertirlo en una disciplina   que facilita la construcción de nuevos conocimientos útiles en el hacer profesional.',
-  imagenPortada: require('@/assets/images/header/header_ruta.svg'),
+    'En este componente formativo aprenderá a identificar las características, partes, composición, categorización y detalles en el análisis y comprensión de prendas de vestir. Dentro del proceso se hace una contextualización del lenguaje técnico empleado en el diseño de modas, con el fin de apoyar una parte del proceso en la construcción de prendas de vestir.',
+  imagenPortada: require('@/assets/images/pages/tema1/img10.svg'),
   resultadosAprendizaje: [
-    'Analizar el contexto productivo según sus características y necesidades.',
-    'Estructurar el proyecto de acuerdo a criterios de la investigación.',
-    'Argumentar aspectos teóricos del proyecto según referentes nacionales e internacionales.',
-    'Proponer soluciones a las necesidades del contexto según resultados de la investigación.',
+    'Reconocer estructura corporal acorde a criterios de patronaje industrial de prendas de vestir.',
   ],
+  palabrasClave: ['Diseño', 'moda', 'textil', 'fichaTécnica'],
 }
 
 export const menuPrincipal = {
@@ -28,21 +26,119 @@ export const menuPrincipal = {
     {
       routeName: 'tema1',
       icon: 'fa fa-play-circle',
-      title:
-        '3. Correo electrónico, redes sociales y almacenamiento en la nube',
-      tags: ['investigacion', 'conocimiento', 'aprendizaje', 'metodología'],
+      title: '1. Diseño y moda',
       desarrolloContenidos: true,
       actividad: true,
       subMenu: [
         {
           icon: 'fa fa-file-text',
-          title: '3.1 Cuentas de correo electrónico',
+          title: '1.1. Fundamentación de moda',
+          hash: 't_1_1',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '1.2. Universos de vestuario',
+          hash: 't_1_2',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '1.3. Perfil y estilo de consumidor',
+          hash: 't_1_3',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '1.4. Tendencias',
+          hash: 't_1_4',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '1.5. Moodboard - Cuadro metamórfico',
+          hash: 't_1_5',
+        },
+      ],
+    },
+    {
+      routeName: 'tema2',
+      icon: 'fa fa-play-circle',
+      title: '2. Ficha técnica de diseño (software de diseño)',
+      desarrolloContenidos: true,
+      actividad: true,
+      subMenu: [
+        {
+          icon: 'fa fa-file-text',
+          title: '2.1 Conceptos de dibujo plano',
+          hash: 't_2_1',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '2.2. Categorización de prendas',
+          hash: 't_2_2',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '2.3. Técnica de achurados y acabados',
+          hash: 't_2_3',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '2.4 Dibujo de bitácora de formas',
+          hash: 't_2_4',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '2.5. Dibujo plano de prendas',
+          hash: 't_2_5',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title:
+            '2.6. Análisis de proporciones prendas superiores e inferiores',
+          hash: 't_2_6',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '2.7 Interfaz programa CAD',
+          hash: 't_2_7',
+        },
+      ],
+    },
+    {
+      routeName: 'tema3',
+      icon: 'fa fa-play-circle',
+      title: '3. Fundamentación Textil',
+      desarrolloContenidos: true,
+      actividad: true,
+      subMenu: [
+        {
+          icon: 'fa fa-file-text',
+          title:
+            '3.1 Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
           hash: 't_3_1',
         },
         {
           icon: 'fa fa-file-text',
-          title: '3.1.1 Cuentas y sincronización en equipos de cómputo',
-          hash: 't_3_1_1',
+          title: '3.2. Identificación fibras por combustión',
+          hash: 't_3_2',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '3.3. Clasificación de los hilos',
+          hash: 't_3_3',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '3.4. Clasificación de tejidos',
+          hash: 't_3_4',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '3.5 Caracterización de los tejidos',
+          hash: 't_3_5',
+        },
+        {
+          icon: 'fa fa-file-text',
+          title: '3.6 Procesos textiles',
+          hash: 't_3_6',
         },
       ],
     },

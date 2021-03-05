@@ -31,6 +31,22 @@ const router = new VueRouter({
           name: 'tema1',
           component: () =>
             import(
+              /* webpackChunkName: "actividad" */ '../components/curso/Tema1.vue'
+            ),
+        },
+        {
+          path: 'tema2',
+          name: 'tema2',
+          component: () =>
+            import(
+              /* webpackChunkName: "actividad" */ '../components/curso/Tema2.vue'
+            ),
+        },
+        {
+          path: 'tema3',
+          name: 'tema3',
+          component: () =>
+            import(
               /* webpackChunkName: "actividad" */ '../components/curso/Tema3.vue'
             ),
         },

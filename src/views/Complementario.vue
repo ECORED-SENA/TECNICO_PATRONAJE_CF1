@@ -18,13 +18,15 @@
           td PDF
           td 
             a(href="media/documentos/complementarios/MC_AA2_Aprenda_Java.pdf", target="_blank")
-            span.fa.fa-download(aria-hidden="true") Descargar     
+              span.fa.fa-download.mr-2(aria-hidden="true")
+              span Descargar                           
         tr
           td Fundamentos de Programación en JAVA
           td PDF
           td 
             a(href="media/documentos/complementarios/MC_AA2_Fundamentos_Programacion_Java.pdf", target="_blank") 
-            span.fa.fa-download(aria-hidden="true") Descargar                                      
+              span.fa.fa-download.mr-2(aria-hidden="true")
+              span Descargar                                      
 </template>
 
 <script>
