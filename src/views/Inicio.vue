@@ -37,9 +37,9 @@
 
                     .col.ml-n2
                       span.nav-tema-item__titulo 
-                        router-link(:to="item.routeName") {{item.title}}
+                        router-link(:to="{name: item.routeName}") {{item.title}}
                     .col-auto
-                      router-link.btn.btn-light.nav-tema-item__btn(:to="item.routeName") Ver más
+                      router-link.btn.btn-light.nav-tema-item__btn(:to="{name: item.routeName}") Ver más
   Creditos
 </template>
 
