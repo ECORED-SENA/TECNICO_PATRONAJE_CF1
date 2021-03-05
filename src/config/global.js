@@ -155,11 +155,11 @@ export const menuPrincipal = {
       icon: 'fa fa-sort-alpha-asc',
       title: 'Glosario',
     },
-    {
-      routeName: 'complementario',
-      icon: 'fa fa-folder-open',
-      title: 'Material complementario',
-    },
+    // {
+    //   routeName: 'complementario',
+    //   icon: 'fa fa-folder-open',
+    //   title: 'Material complementario',
+    // },
     {
       icon: 'fa fa-book',
       title: 'Referencias bibliográficas',
@@ -176,49 +176,101 @@ export const menuPrincipal = {
 export const referencias = [
   {
     referencia:
-      'Atzori, L., Iera, A. y Morabito, G., (2017) Understanding the internet of things: Definition, Potentials, And Societal Role of a Fast Evolving Paradigm',
-    enlace: 'https://doi.org/10.1016/j.adhoc.2016.12.004',
-    tituloenlace: 'Ad Hoc Networks, 56, 122-140.',
-  },
-  {
-    referencia:
-      'Castro, S., Medina, B. y Camargo, L., (2016) Supervisión y Control Industrial a través de Teléfonos Inteligentes Usando un Computador de Placa Única Raspberry Pi',
-    enlace: 'http://dx.doi.org/10.4067/S0718-07642016000200015',
-    tituloenlace: 'Inf. Tecnol. 27(2), 121-130.',
-  },
-  {
-    referencia:
-      'Eines, Mónica E.; Aranda, Nélida Inés y Amilivia, Luis Alberto. (2018) Las Píldoras de Contenidos. Rev. iberoam. tecnol. educ. educ. tecnol. [online]., n.21 [citado 2020-12-18], pp.15-23. Disponible en:',
+      'Blackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
     enlace:
-      'http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1850-99592018000100003&lng=es&nrm=iso',
-    tituloenlace: 'ISSN 1851-0086',
+      'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+    tituloenlace: '',
   },
   {
     referencia:
-      'Moreira, Gislene (2011). Democracia WiFi: Dinámicas de la política y la comunicación en la era digital. Quórum Académico, 8(2),183-208. [fecha de Consulta 18 de diciembre de 2020]. ISSN: 1690-7582. Disponible en:',
-    enlace: 'https://www.redalyc.org/articulo.oa?id=1990/199020215002',
+      'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+    enlace:
+      'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+    tituloenlace: '',
+  },
+  {
+    referencia:
+      'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+    enlace:
+      'https://www.harpersbazaar.mx/belleza/salud-y-bienestar/la-ropa-que-eliges-afecta-a-tu-estado-de-animo-y-cerebro-segun-expertos/',
+    tituloenlace: '',
+  },
+  {
+    referencia:
+      'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+    enlace:
+      'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+    tituloenlace: '',
+  },
+  {
+    referencia:
+      'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+    enlace:
+      'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000063748',
+    tituloenlace: '',
+  },
+  {
+    referencia:
+      'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+    enlace:
+      'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+    tituloenlace: '',
+  },
+  {
+    referencia:
+      'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+    enlace:
+      'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+    tituloenlace: '',
+  },
+  {
+    referencia:
+      'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+    enlace:
+      'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
     tituloenlace: '',
   },
 ]
 
 export const glosario = [
   {
-    termino: 'Android',
+    termino: 'Bidimensional',
     significado:
-      'Sistema operativo que usan teléfonos móviles usa como base Linux.',
+      'Que se representa según su altura y su anchura y no su profundidad.',
   },
   {
-    termino: 'Raspberry',
+    termino: 'Diseño',
     significado:
-      'Dispositivo embebido con una placa base emulando un computador de bajo costo para aplicaciones específicas.',
+      'Actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
   },
   {
-    termino: 'TIC',
-    significado: 'Acrónimo de tecnologías de la información y comunicación.',
+    termino: 'Moda',
+    significado:
+      'Hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
   },
   {
-    termino: 'Wifi',
+    termino: 'MoodBoard',
     significado:
-      'Es una marca comercial que también es usada para designar a las tecnologías de red sin cable (Moreira, 2011).',
+      'Su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+  },
+  {
+    termino: 'Pirognóstico',
+    significado:
+      'Ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+  },
+  {
+    termino: 'Software',
+    significado:
+      'Término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+  },
+  {
+    termino: 'Tipología',
+    significado:
+      'Estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+  },
+  {
+    termino: 'Vectores',
+    significado:
+      'En software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
   },
 ]
