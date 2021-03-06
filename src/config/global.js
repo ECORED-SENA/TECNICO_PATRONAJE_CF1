@@ -147,12 +147,12 @@ export const menuPrincipal = {
         },
       ],
     },
-    {
-      routeName: 'actividad',
-      icon: 'fa fa-question-circle',
-      title: 'Actividad didáctica',
-      desarrolloContenidos: true,
-    },
+    // {
+    // routeName: 'actividad',
+    // icon: 'fa fa-question-circle',
+    // title: 'Actividad didáctica',
+    // desarrolloContenidos: true,
+    // },
   ],
   subMenu: [
     {
