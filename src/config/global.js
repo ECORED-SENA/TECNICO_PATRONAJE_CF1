@@ -19,13 +19,13 @@ export const menuPrincipal = {
     },
     {
       routeName: 'introduccion',
-      icon: 'fa fa-play-circle',
+      icon: 'fa fa-file-text',
       title: 'Introduccion',
       desarrolloContenidos: true,
     },
     {
       routeName: 'tema1',
-      icon: 'fa fa-play-circle',
+      icon: 'fa fa-file-text',
       title: '1. Diseño y moda',
       desarrolloContenidos: true,
       actividad: true,
@@ -59,7 +59,7 @@ export const menuPrincipal = {
     },
     {
       routeName: 'tema2',
-      icon: 'fa fa-play-circle',
+      icon: 'fa fa-file-text',
       title: '2. Ficha técnica de diseño (software de diseño)',
       desarrolloContenidos: true,
       actividad: true,
@@ -104,7 +104,7 @@ export const menuPrincipal = {
     },
     {
       routeName: 'tema3',
-      icon: 'fa fa-play-circle',
+      icon: 'fa fa-file-text',
       title: '3. Fundamentación Textil',
       desarrolloContenidos: true,
       actividad: true,

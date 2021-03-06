@@ -11,7 +11,7 @@ section.container.pt-4
     p.mb-5 Las fibras son una composición de filamentos que al entrelazarse componen los hilos, los hilos son el punto de partida para la producción de un textil; la composición unitaria de una materia sólida con cualquier estructura compone una fibra.
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/zjp1OL2DCug', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -185,7 +185,7 @@ section.container.pt-4
       .h1 3.2. Identificación fibras por combustión
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/xL89_BMN61I', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -350,7 +350,7 @@ section.container.pt-4
       .h1 3.3. Clasificación de los hilos
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/qUdbl6B18Bg', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -810,7 +810,7 @@ section.container.pt-4
       .h1 3.5 Caracterización de los tejidos
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/mc1kARHDHrs', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -1034,7 +1034,7 @@ section.container.pt-4
       .h1 3.6 Procesos textiles
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/RecKnCBkD5g', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''

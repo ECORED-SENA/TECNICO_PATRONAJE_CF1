@@ -9,7 +9,7 @@ section.container.pt-4
       .h1 2.1 Conceptos de dibujo plano
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/xptK7CFsF7o', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -141,7 +141,7 @@ section.container.pt-4
       .h1 2.2. Categorización de prendas
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/MPaIS2YaAXM', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -219,7 +219,7 @@ section.container.pt-4
       .h1 2.3. Técnica de achurados y acabados
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/Di4R3jHoNkQ', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -240,7 +240,7 @@ section.container.pt-4
       .h1 2.4 Dibujo de bitácora de formas
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/ppEdTvy94eU', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -270,7 +270,7 @@ section.container.pt-4
     .h3.small.mb-5 Dibujo plano de prendas.
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/Ck5C_HRLktY', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -278,7 +278,7 @@ section.container.pt-4
     .h3.small.mb-5 Interpretación prenda inferior.
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/ryCAmrpX6eI', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -299,7 +299,7 @@ section.container.pt-4
       .h1 2.6. Análisis de proporciones prendas superiores e inferiores
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/oJRhtnimo6Q', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -307,7 +307,7 @@ section.container.pt-4
     .h3.small.mb-5 Análisis de proporciones prendas superiores e inferiores.
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/17OxTDMX_xc', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -330,15 +330,7 @@ section.container.pt-4
     p.mb-5 Para el desarrollo de dibujos planos, se implementa software que permite agilizar y detallar de manera más certera un producto. Para el uso de los programas se hace necesario contar con la licencia que autoriza la implementación legal del mismo. El SENA cuenta con las licencias requeridas para el acceso del aprendiz sin ningún inconveniente. 
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
-      frameborder='0', 
-      allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
-      allowfullscreen=''
-    )
-    .h3.small.mb-5 Interfaz programa CAD
-
-    iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/lSZta00zN0A', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -361,7 +353,7 @@ section.container.pt-4
     p.mb-5 Son documentos en los cuales se describe de manera detallada la información técnica de un producto, por lo general se documenta la información operativa de cada uno de los procesos por los que pasa el producto, dichos documentos serán consultados de manera constante para validar que el proceso si corresponde al requerimiento.
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/ck4jApUj5ss', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''

@@ -6,141 +6,123 @@ footer
       h1 Créditos               
       .brand-line-primary
 
-      .row
+      .row.mb-4
         .col-12.col-md-5
-          h3.footer-subtitulo.mb-4 ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES 
+          h3.footer-subtitulo.mb-4 ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES
 
-          p.footer-texto.mb-2
+          p.footer-texto
             strong Maria Camila Garcia Santamaria
-            br   
-            span.text-small Líder del equipo
             br
-            span.text-small Dirección general
+            span.text-small Líder del equipo
 
-      .row.mt-5
+      .row.mb-4
+        .col-12.col-md-6
+          h4.footer-subtitulo-2.mt-0
+            .fa.fa-caret-right.mr-2 
+            | Contenido Instruccional
+
+          p.footer-texto.mb-3
+            strong Rafael Neftalí Lizcano Reyes
+            br
+            span.text-small Asesor metodologógico y pedagógico
+            br
+            span.text-small.text-uppercase Centro Industrial Del Diseño Y La Manufactura
+            br
+            span.text-small Regional Santander
+
+
+          p.footer-texto.mb-3
+            strong Lizeth Maritza Rodríguez Beltrán
+            br
+            span.text-small Instructora Técnica
+            br
+            strong Natalia Andrea Bueno Pizarro
+            br
+            span.text-small Diseñador Instruccional
+            br
+            span.text-small.text-uppercase Centro de Manufactura en Textil y Cuero
+            br
+            span.text-small Regional Distrito Capital
+
+          p.footer-texto
+            strong Adriana Lozano Zapata
+            br
+            span.text-small Revisora de estilo
+            br
+            strong Martha Isabel Martínez Vargas
+            br
+            span.text-small Revisora de estilo
+            br
+            span.text-small.text-uppercase Centro Industrial Del Diseño Y La Manufactura
+            br
+            span.text-small Regional Santander
+
         .col-12.col-md-6
           h4.footer-subtitulo-2.mt-0
             .fa.fa-caret-right.mr-2
-            | Contenido Instruccional
-
-          p.footer-texto
-            strong Rafael Neftalí Lizcano Reyes
-            br
-            span.text-small Asesor metodológico y pedagógico
-            br
-            span.text-small.text-uppercase Centro Industrial Del Diseño Y La Manufactura
-            br
-            span.text-small Regional Santander
-
-          p.footer-texto
-            strong Tania Yaneth Ramírez Benítez
-            br               
-            span.text-small Soporte organizacional
-            br
-            span.text-small.text-uppercase CENTRO DE COMERCIO Y SERVICIOS 
-            br
-            span.text-small Regional Tolima
-
-          p.footer-texto
-            strong Jhonaimer Diaz Cerquera
-            br
-            span.text-small Experto temático
-            br
-            span.text-small.text-uppercase Centro de desarrollo Agroempresarial y turístico
-            br
-            span.text-small Regional Huila
-
-          p.footer-texto
-            strong Miguel Ricardo Rivera Lizcano
-            br
-            span.text-small Experto temático
-            br
-            span.text-small Dirección general
-
-          p.footer-texto
-            strong Andrés Felipe Velandia Espitia
-            br   
-            span.text-small Diseñador Instruccional 
-            br
-            span.text-small.text-uppercase Centro de Diseño y Metrología
-            br
-            span.text-small Regional Distrito Capital
-
-          p.footer-texto
-            strong Vilma Lucía Perilla Méndez
-            br   
-            span.text-small Evaluador instruccional
-            br
-            span.text-small.text-uppercase Centro de Gestión Industrial
-            br
-            span.text-small Regional Distrito Capital
-
-          p.footer-texto
-            strong Julieth Paola Vital López
-            br   
-            span.text-small Revisora de estilo
-            br
-            span.text-small.text-uppercase Centro para la Industria y la Comunicación Gráfica
-            br
-            span.text-small Regional Distrito Capital
-                
-        .col-12.col-md-6
-          h4.footer-subtitulo-2.mt-0 
-            .fa.fa-caret-right.mr-2
             | Diseño y desarrollo de recursos educativos digitales
-          
+
           p.footer-texto
-            strong Francisco José Lizcano Reyes 
-            br   
-            span.text-small Responsable equipo
+            strong Francisco José Lizcano Reyes
             br
-            span.text-small.text-uppercase Centro Industrial Del Diseño Y La Manufactura
-            br
-            span.text-small Regional Santander
+            span.text-small Responsable del equipo
 
           p.footer-texto
             strong Leyson Fabian Castaño Perez
-            br   
+            br
             span.text-small Integración de recursos y pruebas
+
+          p.footer-texto
+            strong Jesus Antonio Vecino Valero
+            br
+            strong Juan Daniel Polanco Muñoz
+            br
+            strong María Natalia Maldonado Delgado
+            br
+            strong Wilson Andres Arenales Cáceres
+            br
+            strong Yuly Andrea Rey Quiñonez
+            br
+            span.text-small Diseño web & producción audiovisual<br/>
+
+          p.footer-texto
+            strong Andres Mauricio Santaella Ochoa
+            br
+            strong Lizeth Karina Manchego Suarez
+            br
+            strong Luis Gabriel Urueta Alvarez
+            br
+            span.text-small Desarrollo front-end
+            br
+            span.text-small.text-uppercase CENTRO INDUSTRIAL DEL DISEÑO Y LA MANUFACTURA
+            br
+            span.text-small Regional Santander
+
+          p.footer-texto
+            strong Jhon Jairo Urueta Alvarez
+            br
+            span.text-small Desarrollo front-end
             br
             span.text-small.text-uppercase CENTRO DE COMERCIO Y SERVICIOS
             br
             span.text-small Regional Tolima
 
-          p.footer-texto                           
-            strong Oleg Litvin
-            br  
-            strong Wilson Andres Arenales Cáceres
-            br
-            span.text-small Diseño Web & Producción Audiovisual
-            br
-            span.text-small.text-uppercase Centro Industrial Del Diseño Y La Manufactura
-            br
-            span.text-small Regional Santander
-
-          p.footer-texto
-            strong Andres Mauricio Santaella Ochoa
-            br
-            span Desarrollo front-end
-            br                
-            span.text-small.text-uppercase Centro Industrial Del Diseño Y La Manufactura
-            br
-            span.text-small Regional Santander
-
-          h4.footer-subtitulo-2.mt-5
+          h4.footer-subtitulo-2
             .fa.fa-caret-right.mr-2
             | Gestores de repositorio
 
           p.footer-texto
-            strong Ricardo Alfonso Gonzalez Vargas
+            strong Alvaro Andres Angarita Ramirez
             br
-            span Validación de recursos
+            strong Daniel Felipe Varon Molina
             br
-            span.text-small CENTRO DE COMERCIO Y SERVICIOS
+            span.text-small Validación de recursos
             br
-            span Regional Tolima
+            span.text-small.text-uppercase CENTRO DE COMERCIO Y SERVICIOS
+            br
+            span.text-small Regional Tolima
 
-      .row.justify-content-center.align-items-center.mt-5
+      .row.justify-content-center.align-items-center
         img(src="@/assets/images/logos/senaLogo.svg", style="max-width:100px")
 
   section#cc
