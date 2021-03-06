@@ -132,10 +132,10 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 5
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/2-1_conceptos_de_dibujo_plano.pdf", target="_blank")
             img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
-            span 1.5 MOODBOARD TABLEROS CREATIVOS Y CUADRO METAMÓRFICO.
+            span 2.1 CONCEPTOS DE DIBUJO PLANO
 
     #t_2_2.titulo-subtema.mb-5
       .h1 2.2. Categorización de prendas
@@ -231,8 +231,8 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 6
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/2-3_dibujo_plano_tipologias.pdf", target="_blank")
             img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 2.3 DIBUJO PLANO - TIPOLOGÍAS.
 
@@ -252,8 +252,8 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 7
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/2-4_plantillas_de_figurin_para_dibujo_plano.pdf", target="_blank")
             img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 2.4 PLANTILLAS DE FIGURIN PARA DIBUJO PLANO.
 
@@ -262,7 +262,7 @@ section.container.pt-4
       .h1 2.5. Dibujo plano de prendas
 
     iframe.video(
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/OmHxpe672CE', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -290,9 +290,9 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 8
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
-            img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/2-5_dibujo_plano_de_prendas.docx", target="_blank")
+            img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/icon-doc.svg")
             span 2.5 DIBUJO PLANO DE PRENDAS.
 
     #t_2_6.titulo-subtema.mb-5
@@ -319,9 +319,9 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 9
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
-            img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/2-6_analisis_de_proporciones_prendas_superiores_e_inferiores.docx", target="_blank")
+            img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/icon-doc.svg")
             span 2.6 ANÁLISIS DE PROPORCIONES PRENDAS SUPERIORES E INFERIORES
 
     #t_2_7.titulo-subtema.mb-5
@@ -335,17 +335,7 @@ section.container.pt-4
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
     )
-    .h3.small.mb-5 Interfaz programa CAD
-
-    hr.mb-5
-
-    .row.justify-content-center.mb-6
-      .col-lg-6
-        .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 10
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
-            img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
-            span 2.3 DIBUJO PLANO - TIPOLOGÍAS.
+    .h3.small.mb-6 Interfaz programa CAD
 
     #t_2_8.titulo-subtema.mb-5
       .h1 2.8. Ficha técnica
@@ -436,10 +426,22 @@ section.container.pt-4
 
     p.mb-6 Los formatos de ficha técnica no tienen un esquema definido, por el contrario, son completamente ajustables al tipo de información que se considere necesaria para el tipo de producción a realizar.
 
-    .h1.mb-5 Socialización de formatos
+    .h1.mb-5 Socialización de formatos.
 
-    .tarjeta.tarjeta--amarillo.tarjeta--pregunta
-      .h2.mb-0 Nota: todo el texto tiene imágenes visuales de ref., las cuales complementan la información entregada - Anexar imágenes ppt de referencia.
+    .row.justify-content-center
+      .col-lg-6
+        .tarjeta.tarjeta--azul-claro.p-4
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/2-8_introduccion_a_ficha_tecnica.pdf", target="_blank")
+            img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
+            span INTRODUCCIÓN FICHA TÉCNICA
+      .col-lg-6
+        .tarjeta.tarjeta--azul-claro.p-4
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/formatos_ficha_tecnica.zip", target="_blank")
+            img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/icon-xls.svg")
+            img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/icon-doc.svg")
+            span FORMATOS FICHA TECNICA
 
 </template>
 

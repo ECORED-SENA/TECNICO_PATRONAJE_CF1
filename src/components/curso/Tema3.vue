@@ -175,8 +175,8 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 11
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/3-1_clasificacion_de_las_fibra_textiles.pdf", target="_blank")
             img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 3.1 CLASIFICACIÓN DE LAS FIBRA TEXTILES
 
@@ -340,8 +340,8 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 12
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/3-2_identificacion_de_fibras.pdf", target="_blank")
             img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 3.2 IDENTIFICACIÓN DE FIBRAS
 
@@ -627,8 +627,8 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 13
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/3-3_clasificacion_de_los_hilos.pdf", target="_blank")
             img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 3.3 CLASIFICACIÓN DE LOS HILOS
 
@@ -800,8 +800,8 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 14
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/3-4_los_tejidos.pdf", target="_blank")
             img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 3.4 LOS TEJIDOS
 
@@ -1024,8 +1024,8 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 15
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/3-5_caracterizacion_de_los_textiles.pdf", target="_blank")
             img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 3.5 CARACTERIZACIÓN DE LOS  TEXTILES
 
@@ -1164,8 +1164,8 @@ section.container.pt-4
     .row.justify-content-center
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 16
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/3-6_acabados.pdf", target="_blank")
             img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 3.6 ACABADOS
 

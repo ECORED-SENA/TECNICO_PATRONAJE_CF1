@@ -263,8 +263,9 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 1
-          a.lnk.d-flex.align-items-center.justify-content-center(href="") 
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/1-1_fundamentacion_de_moda.pdf", target="_blank")
+            img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 1.1 FUNDAMENTACIÓN DE MODA
 
     #t_1_2.titulo-subtema.mb-5
@@ -543,8 +544,8 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 2
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/1-2_universos_de_vestuario_gamas_de_mercado.pdf", target="_blank")
             img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 1.2 UNIVERSOS DE VESTUARIO - GAMAS DE MERCADO
 
@@ -554,7 +555,7 @@ section.container.pt-4
  
 
     iframe.video(, 
-      src='https://www.youtube.com/embed/OUA-M4LqynA', 
+      src='https://www.youtube.com/embed/ccdTX9G0mxE', 
       frameborder='0', 
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
@@ -697,7 +698,7 @@ section.container.pt-4
 
     .tarjeta.tarjeta--amarillo-claro.mb-6
       .tarjeta--amarillo-claro__titulo
-        .h11 ¿Quién es <br>el estilo? 
+        .h11 ¿Que es <br>el estilo? 
       .row
         .col-lg-4.mb-5
         .col-lg-8
@@ -823,8 +824,9 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 3
-          a.lnk.d-flex.align-items-center.justify-content-center(href="") 
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/1-3_perfil_y_estilo_de_consumidor.pdf", target="_blank")
+            img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 1.3 PERFIL Y ESTILO DE CONSUMIDOR
 
  
@@ -967,8 +969,8 @@ section.container.pt-4
     .row.justify-content-center.mb-6
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 4
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/1-4_tendencias.pdf", target="_blank")
             img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 1.4 TENDENCIAS
 
@@ -1106,8 +1108,8 @@ section.container.pt-4
     .row.justify-content-center
       .col-lg-6
         .tarjeta.tarjeta--azul-claro.p-4
-          .h2.mb-3 Anexo 5
-          a.lnk.d-flex.align-items-center.justify-content-center(href="")
+          .h2.mb-3 Anexo
+          a.lnk.d-flex.align-items-center.justify-content-center(href="/downloads/1-5_moodboard_tableros_creativos_y_cuadro_metamorfico.pdf", target="_blank")
             img.mr-3(style="width: 35px" src="@/assets/images/pages/tema1/img18.svg")
             span 1.5 MOODBOARD TABLEROS CREATIVOS Y CUADRO METAMÓRFICO.
 

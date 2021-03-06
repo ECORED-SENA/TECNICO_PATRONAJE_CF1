@@ -100,6 +100,11 @@ export const menuPrincipal = {
           title: '2.7 Interfaz programa CAD',
           hash: 't_2_7',
         },
+        {
+          icon: 'fa fa-file-text',
+          title: '2.8. Ficha técnica',
+          hash: 't_2_8',
+        },
       ],
     },
     {
