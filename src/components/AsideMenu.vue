@@ -107,28 +107,30 @@ export default {
         item => item.routeName === this.$route.name,
       )
       console.log(menuObject)
-      if (!menuObject.submenu) {
+      if (!menuObject.subMenu) {
+        console.log('noooooo')
         return {}
       } else {
-        const idxCurrentHash = menuObject.submenu
+        const idxCurrentHash = menuObject.subMenu
           .map(item => item.hash)
           .indexOf(this.$route.hash.replace('#', ''))
+        console.log(idxCurrentHash)
         if (idxCurrentHash === -1) {
           return {
-            next: menuObject.submenu[0].hash,
+            next: menuObject.subMenu[0].hash,
           }
         } else if (idxCurrentHash === 0) {
           return {
-            next: menuObject.submenu[idxCurrentHash + 1].hash,
+            next: menuObject.subMenu[idxCurrentHash + 1].hash,
           }
-        } else if (idxCurrentHash === menuObject.submenu.length - 1) {
+        } else if (idxCurrentHash === menuObject.subMenu.length - 1) {
           return {
-            back: menuObject.submenu[idxCurrentHash - 1].hash,
+            back: menuObject.subMenu[idxCurrentHash - 1].hash,
           }
         } else {
           return {
-            next: menuObject.submenu[idxCurrentHash + 1].hash,
-            back: menuObject.submenu[idxCurrentHash - 1].hash,
+            next: menuObject.subMenu[idxCurrentHash + 1].hash,
+            back: menuObject.subMenu[idxCurrentHash - 1].hash,
           }
         }
       }

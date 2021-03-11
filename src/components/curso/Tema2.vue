@@ -174,7 +174,7 @@ section.container.pt-4
             img.categorias-prendas__arrow(src="@/assets/images/pages/tema1/iconr.svg")
           .col.flex-sm-grow-0
             .h11.mb-3 Prendas superiores:
-            p.mb-3  de la cintura hacia arriba.
+            p.mb-3  camisa, blusas, chaquetas, abrigos, buzos, vestidos, suéter, cardigans, blazer.
 
         .row.justify-content-sm-around.align-items-center
           .col.flex-sm-grow-0
@@ -360,7 +360,7 @@ section.container.pt-4
 
     .h1.mb-5 Tipos
 
-    p.mb-6 según el volumen, la cantidad, rigurosidad de la producción y cumplimiento de parámetros de calidad, se deciden los diferentes requerimientos técnicos que debe llevar la ficha técnica.
+    p.mb-6 Según el volumen, la cantidad, rigurosidad de la producción y cumplimiento de parámetros de calidad, se deciden los diferentes requerimientos técnicos que debe llevar la ficha técnica.
 
     img.mb-6( src="@/assets/images/pages/tema1/img88.svg")
 

@@ -21,15 +21,19 @@ export const menuPrincipal = {
       routeName: 'introduccion',
       icon: 'fa fa-file-text',
       title: 'Introducción',
-      desarrolloContenidos: true,
+      desarrolloContenidos: {
+        icono: 'fa fa-file-text',
+        titulo: 'Introducción',
+      },
     },
     {
       routeName: 'tema1',
       icon: 'fa fa-file-text',
       title: '1. Diseño y moda',
-      desarrolloContenidos: true,
-      desarrolloContenidosIcono: 1,
-      actividad: true,
+      desarrolloContenidos: {
+        icono: 1,
+        titulo: 'Diseño y moda',
+      },
       subMenu: [
         {
           icon: 'fa fa-file-text',
@@ -62,9 +66,10 @@ export const menuPrincipal = {
       routeName: 'tema2',
       icon: 'fa fa-file-text',
       title: '2. Ficha técnica de diseño (software de diseño)',
-      desarrolloContenidos: true,
-      desarrolloContenidosIcono: 2,
-      actividad: true,
+      desarrolloContenidos: {
+        icono: 2,
+        titulo: 'Ficha técnica de diseño (software de diseño)',
+      },
       subMenu: [
         {
           icon: 'fa fa-file-text',
@@ -113,9 +118,10 @@ export const menuPrincipal = {
       routeName: 'tema3',
       icon: 'fa fa-file-text',
       title: '3. Fundamentación Textil',
-      desarrolloContenidos: true,
-      desarrolloContenidosIcono: 3,
-      actividad: true,
+      desarrolloContenidos: {
+        icono: 3,
+        titulo: 'Fundamentación Textil',
+      },
       subMenu: [
         {
           icon: 'fa fa-file-text',

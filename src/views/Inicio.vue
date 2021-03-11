@@ -32,12 +32,12 @@
                     .col-auto
                       .avatar.avatar-sm
                         span.nav-tema-item__icon.avatar-title.font-size-lg.bg-secondary-soft.rounded-circle.text-primary.font-weight-bold 
-                          template(v-if="item.desarrolloContenidosIcono") {{item.desarrolloContenidosIcono}}
+                          template(v-if="typeof item.desarrolloContenidos.icono === 'number'") {{item.desarrolloContenidos.icono}}
                           i(v-else :class="item.icon")
 
                     .col.ml-n2
                       span.nav-tema-item__titulo 
-                        router-link(:to="{name: item.routeName}") {{item.title}}
+                        router-link(:to="{name: item.routeName}") {{item.desarrolloContenidos.titulo}}
                     .col-auto
                       router-link.btn.btn-light.nav-tema-item__btn(:to="{name: item.routeName}") Ver más
   Creditos

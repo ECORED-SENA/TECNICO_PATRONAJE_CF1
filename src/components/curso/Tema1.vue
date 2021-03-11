@@ -228,7 +228,7 @@ section.container.pt-4
           .col-6.col-sm-2.mb-5
             img(src="@/assets/images/pages/tema1/img30.svg")
           .col-sm-9.mb-5
-            p no solo depende de la orientación sexual sino también del lenguaje de sexualización de la indumentaria, el sentirse sexy o atractivo para otra persona. También hay prendas de vestir con una finalidad erótica.
+            p No solo depende de la orientación sexual sino también del lenguaje de sexualización de la indumentaria, el sentirse sexy o atractivo para otra persona. También hay prendas de vestir con una finalidad erótica.
 
 
         .row.justify-content-around.align-items-center(titulo="E. Moda")

@@ -381,7 +381,7 @@ section.container.pt-4
       .col-1.mb-3.mb-md-0
         img.d-none.d-md-block(style="width: 50%" src="@/assets/images/pages/tema1/iconr.svg")
       .col-md-6
-        p.mb-0 Con el huso - La rueca - Bergadana - El spinning Jenny. Anexar imagen.
+        p.mb-0 Con el huso - La rueca - Bergadana - El spinning Jenny.
 
     .row.align-items-center.mb-5
       .col-md-5
@@ -389,7 +389,7 @@ section.container.pt-4
       .col-1.mb-3.mb-md-0
         img.d-none.d-md-block(style="width: 50%" src="@/assets/images/pages/tema1/iconr.svg")
       .col-md-6
-        p.mb-0 La mule - Jenny - Selfactina - Continuas de hilar - Máquinas más modernas. Anexar imagen.
+        p.mb-0 La mule - Jenny - Selfactina - Continuas de hilar - Máquinas más modernas.
 
 
     .h1.mb-5 Los hilos
