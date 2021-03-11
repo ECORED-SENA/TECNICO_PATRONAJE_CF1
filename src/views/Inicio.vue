@@ -32,8 +32,8 @@
                     .col-auto
                       .avatar.avatar-sm
                         span.nav-tema-item__icon.avatar-title.font-size-lg.bg-secondary-soft.rounded-circle.text-primary.font-weight-bold 
-                          i(v-if="item.icon.includes('fa')" :class="item.icon")
-                          template(v-else) {{item.icon}}
+                          template(v-if="item.desarrolloContenidosIcono") {{item.desarrolloContenidosIcono}}
+                          i(v-else :class="item.icon")
 
                     .col.ml-n2
                       span.nav-tema-item__titulo 

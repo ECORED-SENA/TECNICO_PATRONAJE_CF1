@@ -16,7 +16,7 @@ section.container.pt-4
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
     )
-    .h3.small.mb-5 Interfaz programa CAD
+    .h3.small.mb-5 SESIÓN 1 - CLASIFICACIÓN DE LAS FIBRA TEXTILES
 
 
     .h1.mb-5 Proceso productivo textil
@@ -32,7 +32,14 @@ section.container.pt-4
         .col-3.col-lg-1
           img(src="@/assets/images/pages/tema1/img93.png")
         .col-9.col-lg-8
-          p.mb-0 Son documentos que contienen la información necesaria para la fabricación de un producto. dichos documentos serán consultados en los distintos procesos de producción. Los datos para incluir deben ser detallados.
+          p.mb-0 Materia sólida unitaria de cualquier estructura textil.
+            br
+            br
+            | Fibra es cada uno de los filamentos que componen las unidades fundamentales en la fabricación de hilos, textiles y telas.
+            br
+            br
+            strong Filamentos: 
+            | término utilizado para identificar fibras de longitud indeterminada.
 
     .row.mb-5
       .col-md-4
@@ -95,7 +102,7 @@ section.container.pt-4
                 li Algodón
                 li Ceiba o Kapok
             .col-sm-6.col-lg-3.mb-4.mb-lg-0
-              .h3 De la semilla
+              .h3 Del tallo
               ul.mb-0
                 li Lino
                 li Yute 
@@ -272,8 +279,9 @@ section.container.pt-4
           .col-5.col-sm-3.mb-4.mb-sm-0
             img(src="@/assets/images/pages/tema1/img99.svg")
           .col-sm-9.col-lg-8
-            .h1 Uso del mechero o veladora:
-            p.mb-0 antes de encender el mechero o veladora, comprobar que no hay material inflamable a su alrededor. Para apagar el mechero o veladora, humedezca con un poco de agua, nunca soplar.
+            .h1 Quemaduras:
+            p.mb-0 Prestar especial atención cuando se trabaje con muestras de tejidos compuestos por fibras que arden fundiéndose. Si se producen pequeñas quemaduras, estas se tratarán lavando la zona afectada con agua fría.
+
 
 
     .h1.mb-5 Procedimiento experimental
@@ -355,7 +363,7 @@ section.container.pt-4
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
     )
-    .h3.small.mb-5 Identificación de fibras
+    .h3.small.mb-5 CLASIFICACIÓN DE LOS HILOS
 
     p.mb-6 Los hilos son un conjunto de fibras textiles que son sometidas a un proceso de torsión, el cual permite que se genere un recorrido de gran longitud. Dentro de su clasificación se identifican elementos como los tipos de torsiones, titulación o numeración; la lectura de esta información es lo que permite determinar la idoneidad al momento de seleccionar los insumos para la elaboración de una prenda.
 
@@ -369,7 +377,7 @@ section.container.pt-4
 
     .row.align-items-center.mb-5
       .col-md-5
-        .h1.mb-0 Hilatura manual Procedimiento de hilatura
+        .h1.mb-0 Hilatura manual - Procedimiento de hilatura
       .col-1.mb-3.mb-md-0
         img.d-none.d-md-block(style="width: 50%" src="@/assets/images/pages/tema1/iconr.svg")
       .col-md-6
@@ -377,7 +385,7 @@ section.container.pt-4
 
     .row.align-items-center.mb-5
       .col-md-5
-        .h1.mb-0 Hilatura mecánica Procedimiento de hilatura
+        .h1.mb-0 Hilatura mecánica - Procedimiento de hilatura
       .col-1.mb-3.mb-md-0
         img.d-none.d-md-block(style="width: 50%" src="@/assets/images/pages/tema1/iconr.svg")
       .col-md-6
@@ -406,6 +414,8 @@ section.container.pt-4
       br
       br
       | La cantidad de torsión de los hilos puede tener otras finalidades tales como: provocar determinados efectos en el teñido, producir reflejos en el tejido, flexibilidad o rigidez.
+    
+    .h1.mb-5 Torsión en los hilos
 
     .row
       .col-sm-6.mb-4
@@ -601,7 +611,7 @@ section.container.pt-4
 
           p Así, entre más estirajes ha recibido, más delgado será.
 
-          p.mb-0 El número que está después del slash (raya), representa el número de Hebra (cabos) que forman el hilo.
+          p.mb-0 El número que está después del slash (raya), representa el número de hebra (cabos) que forman el hilo.
 
 
 
@@ -657,20 +667,34 @@ section.container.pt-4
       Acordion
         .pl-5.pb-4(titulo="Telas tejidas")
           .h1 Plano
-          .h2 Ligamentos fundamentales
-          ul
-            li Tafetán
-            li Sarga (diagonal)
-            li Raso
-          .h2 Ligamentos derivados
-          ul
-            li Esterilla / panamá / canasta.
-            li Espina / espiga.
-            li Sarga interrumpida (broken twill).
+          .pl-4
+            .h2.mb-3 Ligamentos fundamentales
+            ul
+              li Tafetán
+              li Sarga (diagonal)
+              li Raso
+            .h2.mb-3 Ligamentos derivados
+            ul
+              li Esterilla / panamá / canasta.
+              li Espina / espiga.
+              li Sarga interrumpida (broken twill).
 
-          .h2 Otros
-          ul
-            li Dobby, jacquard, riso, afelpados, etc.
+            .h2.mb-3 Otros
+            ul
+              li Dobby, jacquard, riso, afelpados, etc.
+            
+          .h1 Punto
+          .pl-4
+            .h2.mb-3 Por trama
+            ul
+              li Sencillo (jersey, lacoste).
+              li Doble (rib o resortado, interlock, piqué).
+            .h2.mb-3 Por urdimbre
+            ul
+              li Tricot
+              li Raschell
+
+
 
         .pl-5.pb-4(titulo="Telas no tejidas")
           .h2 Interlones – guatas.
@@ -738,7 +762,7 @@ section.container.pt-4
     .tarjeta.tarjeta--lavanda.p-4.mb-4
       .row.align-items-center
         .col-md-5
-          .h2.mb-0.text-md-right Tejido plano - Ligamentos Derivados
+          .h2.mb-0.text-md-right Tejido plano - Ligamentos derivados
         .col-1.mb-3.mb-md-0.d-flex.justify-content-center
           img.d-none.d-md-block(style="width: 50%" src="@/assets/images/pages/tema1/iconr.svg")
         .col-md-6
@@ -1039,7 +1063,7 @@ section.container.pt-4
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
     )
-    .h3.small.mb-6 Caracterización de los textiles
+    .h3.small.mb-6 LOS ACABADOS TEXTILES
 
     BarraPasos.mb-6(activo="ACABADOS")
 
@@ -1080,9 +1104,11 @@ section.container.pt-4
     p.mb-6 Ambos tipos de operaciones no son incompatibles entre sí; más bien al contrario, se combinan con frecuencia para la obtención de los efectos perseguidos.
 
 
-    .h1.mb-5 Tipos de operaciones
+    .h1.mb-5 Procesos textiles
 
     p.mb-5 Proceso realizado sobre la fibra, el hilo, la tela o la prenda, con el fin de modificar alguna de sus características:
+    
+    .h2.mb-5 Clasificación de los acabados
 
     .row.justify-content-center
       .col-sm-8.col-md-4.mb-4

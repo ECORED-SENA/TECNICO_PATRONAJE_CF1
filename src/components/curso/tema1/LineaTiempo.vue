@@ -91,7 +91,7 @@ export default {
         ano: 'Siglos XIX',
         titulo: 'Edad Contemporánea',
         texto:
-          'Silueta imperio, vestidos delgados y vaporosos, vuelos y encajes en forma de cascada, vestido línea princesa, hombreras. cuello solapa.',
+          'Silueta imperio, vestidos delgados y vaporosos, vuelos y encajes en forma de cascada, vestido línea princesa, hombreras; cuello solapa.',
       },
       {
         ano: 'Siglo XX',

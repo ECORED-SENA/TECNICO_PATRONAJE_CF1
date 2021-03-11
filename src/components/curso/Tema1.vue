@@ -8,7 +8,7 @@ section.container.pt-4
     #t_1_1.titulo-subtema.mb-5
       .h1 1.1. Fundamentación de moda
 
-    p.mb-6 En la actualidad una de las mayores falencias en la industria de la moda, es la articulación entre el diseñador (área creativa) y el patronista (área operativa); por lo tanto, es importante ofrecer al patronista una contextualización en el manejo de la terminología y así afianzar la articulación entre las dos áreas.
+    p.mb-6 En la actualidad, una de las mayores falencias en la industria de la moda, es la articulación entre el diseñador (área creativa) y el patronista (área operativa); por lo tanto, es importante ofrecer al patronista una contextualización en el manejo de la terminología y así afianzar la articulación entre las dos áreas.
     
     .row.justify-content-around.align-items-center.mb-5
       .col-8.col-md-6.col-lg-3.mb-5
@@ -16,7 +16,7 @@ section.container.pt-4
 
       .col-lg-7.mb-5
         .h1 ¿Qué es diseño?
-        p.mb-0 Diseño viene del italiano disegnare que significa dibujar, que a su vez se deriva del latín designare que evoca marcar, trazar, ordenar y disponer. El diseño es una actividad creativa orientada a soluciones idóneas a ciertas problemáticas.
+        p.mb-0 Diseño viene del italiano disegnare, que significa dibujar, que a su vez se deriva del latín designare que evoca marcar, trazar, ordenar y disponer. El diseño es una actividad creativa orientada a soluciones idóneas a ciertas problemáticas.
     
       .col-8.col-md-6.col-lg-3.mb-5
         img(src="@/assets/images/pages/tema1/img14.svg")
@@ -36,13 +36,13 @@ section.container.pt-4
     .titulo-subtema.mb-5
       h1 Evolución de la moda
     
-    p.mb-6 La moda ha ido evolucionando con el pasar de los años teniendo en cuenta diferentes factores que han afectado la sociedad. Quienes han aportado a estos cambios diferenciadores en la moda han dejado una gran huella.
+    p.mb-6 La moda ha ido evolucionando con el pasar de los años, teniendo en cuenta diferentes factores que han afectado la sociedad. Quienes han aportado a estos cambios diferenciadores en la moda han dejado una gran huella.
     
     .tarjeta.tarjeta--amarillo-claro.mb-6
       .row.justify-content-center.justify-content-md-between.align-items-center
         .col-md-8.col-xl-7.mb-4.mb-md-0
           .h1 Introducción
-          .h2.mb-0 El vestirse surge desde el momento en que las prendas pasan de ser una obligación de protegerse del clima a convertirse en una necesidad vital.
+          .h2.mb-0 El vestirse surge desde el momento en que las prendas pasan de ser una obligación de protegerse del clima, a convertirse en una necesidad vital.
             br
             br
             | El vestido muestra la cultura, riqueza y grado de desarrollo de las civilizaciones y da una visión de las condiciones geográficas, económicas y culturales de los pueblos.
@@ -53,7 +53,7 @@ section.container.pt-4
     
     .h1.mb-5 Historia del vestuario
     
-    p.mb-6 Es un reflejo de los cambios sociales, políticos y culturales que tienen lugar alrededor del mundo a medida de los años.
+    p.mb-6 Es un reflejo de los cambios sociales, políticos y culturales que tienen lugar alrededor del mundo en el transcurso de los años.
       br
       br
       | Conforme el humano ha evolucionado, también lo ha hecho su vestimenta e indumentaria.
@@ -125,7 +125,7 @@ section.container.pt-4
           .col-sm-9.mb-5
             p
               strong Clima: 
-              | el clima influye según la geografía, dependiendo de la temporada del año las prendas se acomodan teniendo en cuenta que en algunos países tiene 4 estaciones o climas estables. 
+              | el clima influye según la geografía, dependiendo de la temporada del año las prendas se acomodan, teniendo en cuenta que en algunos países tiene 4 estaciones o climas estables. 
 
           .col-6.col-sm-2.mb-5
             img(src="@/assets/images/pages/tema1/img19.svg")
@@ -142,7 +142,7 @@ section.container.pt-4
           .col-sm-9.mb-5
             p
               strong Estructura corporal: 
-              |  la estructura varía depende del tipo de cuerpo, la talla, la contextura. Cada cuerpo de acuerdo con su estructura corporal tiene prendas que le favorecen más que otras.
+              |  la estructura varía depende del tipo de cuerpo, la talla, la contextura. Cada cuerpo, de acuerdo con su estructura corporal, tiene prendas que le favorecen más que otras.
 
 
           .col-6.col-sm-2.mb-5
@@ -176,7 +176,7 @@ section.container.pt-4
           .col-sm-9.mb-5
             p
               strong Religión: 
-              | existe en el mundo muchas clases de normas ortodoxas que imponen ciertas reglas de indumentaria que se deben respetar de acuerdo con dichas creencias.
+              | existe en el mundo muchas clases de normas ortodoxas que imponen ciertas reglas de indumentaria, que se deben respetar de acuerdo con dichas creencias.
 
           .col-6.col-sm-2.mb-5
             img(src="@/assets/images/pages/tema1/img25.svg")
@@ -206,42 +206,32 @@ section.container.pt-4
             img(src="@/assets/images/pages/tema1/img33.svg")
           .col-sm-9.mb-5
             p
-              strong Estatus o clases sociales: 
+              strong Estado de ánimo: 
               | el estado de ánimo determina la manera de vestir al iniciar el día; poderoso, triste, feliz, deprimido, entre otros.
               br
               br
-              | "Cuando estamos estresados, utilizamos solo un 90% de prendas que guardamos en nuestro guardarropa".
+              | "Cuando estamos estresados, utilizamos solo un 90% de prendas que guardamos en nuestro guardarropa" (Harpersbazaar, 2019).
               br
-              | (Harpersbazaar, 2019).
+              br
+              strong Desórdenes
+              br
+              br
+              strong Mentales: 
+              | cuestiones de autoestima, personas que pueden ser introvertidas o extrovertidas, algunas se esmeran para mostrarse.
+              br
+              br
+              strong Alimenticios: 
+              | depende de cómo se siente respecto a su propia imagen y a su propio cuerpo.
 
 
         .row.justify-content-around.align-items-center(titulo="D. Sexualidad")
           .col-6.col-sm-2.mb-5
             img(src="@/assets/images/pages/tema1/img30.svg")
           .col-sm-9.mb-5
-            p Depende de todas las anteriores: cultural, físico, social, psicológico, no solo depende de la orientación sexual si no también el lenguaje de sexualización de la indumentaria, el sentirse sexy o atractivo para otra persona. 
-              br
-              br
-              | También hay prendas de vestir con una finalidad erótica.
+            p no solo depende de la orientación sexual sino también del lenguaje de sexualización de la indumentaria, el sentirse sexy o atractivo para otra persona. También hay prendas de vestir con una finalidad erótica.
 
 
-        .row.justify-content-around.align-items-center(titulo="E. Desórdenes")
-          .col-6.col-sm-2.mb-5
-            img(src="@/assets/images/pages/tema1/img32.svg")
-          .col-sm-9.mb-5
-            p
-              strong Mentales: 
-              | cuestiones de autoestima, personas que pueden ser introvertidas o extrovertidas, algunas se esmeran para mostrarse.
-              
-          .col-6.col-sm-2.mb-5
-            img(src="@/assets/images/pages/tema1/img34.svg")
-          .col-sm-9.mb-5
-            p
-              strong Alimenticios: 
-              | depende de cómo se siente respecto a su propia imagen y a su propio cuerpo.
-
-
-        .row.justify-content-around.align-items-center(titulo="F. Moda")
+        .row.justify-content-around.align-items-center(titulo="E. Moda")
           .col-12.mb-5
             p.mb-0 Puede constituir un pensamiento histórico en un momento determinado de la época. Cómo vestirse según la mercadotecnia, tendencias de moda, temporadas y diseñadores. Se incentiva a las personas a que consuman y se "actualicen". En este sentido, existen dos grupos de personas:
           .col-6.col-sm-2.mb-5
@@ -310,17 +300,17 @@ section.container.pt-4
  
       .col-sm-4.mb-2.mb-sm-4
         .tarjeta.tarjeta--lavanda.full-height.p-4.d-flex.justify-content-center.align-items-center
+          .h2.mb-0 Segmento
+      .col-sm-8.mb-4
+        .tarjeta.tarjeta--gris.full-height.p-4
+          p.mb-0 Es una parte o algo que junto con otros elementos, se encuentra formando un todo.
+ 
+      .col-sm-4.mb-2.mb-sm-4
+        .tarjeta.tarjeta--lavanda.full-height.p-4.d-flex.justify-content-center.align-items-center
           .h2.mb-0 Consumidor
       .col-sm-8.mb-4
         .tarjeta.tarjeta--gris.full-height.p-4
           p.mb-0 Es un agente económico con una serie de necesidades.
- 
-      .col-sm-4.mb-2.mb-sm-4
-        .tarjeta.tarjeta--lavanda.full-height.p-4.d-flex.justify-content-center.align-items-center
-          .h2.mb-0 Segmento
-      .col-sm-8.mb-4
-        .tarjeta.tarjeta--gris.full-height.p-4
-          p.mb-0 Es una parte o algo que junto con otras se encuentra formando un todo.
  
 
     p.mb-6 En gamas de mercado para el sistema moda, se encuentran movimientos que se han ido adaptando a lo largo de la historia, a través de las necesidades, evoluciones y revoluciones, cada una de las segmentaciones son movimientos transitorios, algunos de ellos perdurando con el paso de los años:
@@ -351,7 +341,7 @@ section.container.pt-4
         
         .tarjeta.tarjeta--borde-violeta.full-height.p-4.pt-5.pt-md-6
           .tarjeta--borde-violeta__titulo
-            .h3.mb-0 Haute couture Alta costura
+            .h3.mb-0 Haute couture - Alta costura
           .row.justify-content-center.mb-4
             .col-6.col-sm-8
               img(src="@/assets/images/pages/tema1/img36.svg")
@@ -361,7 +351,7 @@ section.container.pt-4
         
         .tarjeta.tarjeta--borde-violeta.full-height.p-4.pt-5.pt-md-6
           .tarjeta--borde-violeta__titulo
-            .h3.mb-0 Pret a Porter Listo para llevar
+            .h3.mb-0 Pret a Porter - Listo para llevar
           .row.justify-content-center.mb-4
             .col-6.col-sm-8
               img(src="@/assets/images/pages/tema1/img40.svg")
@@ -371,7 +361,7 @@ section.container.pt-4
         
         .tarjeta.tarjeta--borde-violeta.full-height.p-4.pt-5.pt-md-6
           .tarjeta--borde-violeta__titulo
-            .h3.mb-0 Fast Fashion Moda rápida
+            .h3.mb-0 Fast Fashion - Moda rápida
           .row.justify-content-center.mb-4
             .col-6.col-sm-8
               img(src="@/assets/images/pages/tema1/img39.svg")
@@ -381,7 +371,7 @@ section.container.pt-4
         
         .tarjeta.tarjeta--borde-violeta.full-height.p-4.pt-5.pt-md-6
           .tarjeta--borde-violeta__titulo
-            .h3.mb-0 Slow Fashion Moda lenta
+            .h3.mb-0 Slow Fashion - Moda lenta
           .row.justify-content-center.mb-4
             .col-6.col-sm-8
               img(src="@/assets/images/pages/tema1/img38.svg")
@@ -408,11 +398,14 @@ section.container.pt-4
           .h1 Universos de vestuario
             br
             | Ocasiones de uso
-          p Son conceptos que responden a la necesidad de establecer unas categorías bajo las cuales es posible agrupar productos indumentarios de acuerdo con unos parámetros de afinidad y correlación.
+          p.mb-0 Son conceptos que responden a la necesidad de establecer unas categorías bajo las cuales es posible agrupar productos indumentarios de acuerdo con unos parámetros de afinidad y correlación.
             br
             br
             | Están constituidos por conjuntos de prendas de vestir y accesorios con características similares que deben presentarse agrupados coherentemente bajo conceptos de moda y estar articulados según las necesidades específicas del consumidor o mercado objetivo de cada marca.
-    
+            br
+            br
+            strong Ocasión de uso: 
+            | se define como ocasión de uso, los diferentes escenarios que hacen parte de la cotidianidad del consumidor, es decir, espacio o acción.
         .col-6.col-md-4
           img(src="@/assets/images/pages/tema1/img42.svg")
 
@@ -434,7 +427,7 @@ section.container.pt-4
  
       .col-md-6.col-xl-3.mb-4
         .tarjeta.tarjeta--amarillo-claro.full-height.p-4
-          .h1 Protocolario.
+          .h1 Multi-ocasión - Casual.
           p.mb-0 casual
  
       .col-md-6.col-xl-3.mb-4
@@ -537,7 +530,7 @@ section.container.pt-4
 
 
     .tarjeta.tarjeta--amarillo.tarjeta--comillas.mb-6
-      .h1.mb-0 Todas las marcas tienen una categorización de producto; la cual en gran parte se basa por las ocasiones de uso y los universos de vestuario, esto permite tener una mejor segmentación dependiendo de las necesidades del consumidor.
+      .h1.mb-0 Todas las marcas tienen una categorización de producto; la cual, en gran parte, es generada por las ocasiones de uso y los universos de vestuario, esto permite tener una mejor segmentación, dependiendo de las necesidades del consumidor.
       
     hr.mb-5
 
@@ -561,8 +554,13 @@ section.container.pt-4
       allowfullscreen=''
     )
     p.small.mb-5 Perfil y estilo de consumidor
+
+    .h1 ¿Qué es el estilo?
+    p.mb-5 Coherencia entre el ser y el parecer. La relación que tiene el modelo de pensamiento y la actitud personal define el estilo de cada individuo. El estilo refleja todos los aspectos de una persona, el pensamiento, las acciones y la relación con los demás y los objetos; además, sus gustos, preferencias, motivaciones, valoraciones necesidades y actividades reflejadas en sus actitudes.
  
-    p.mb-6 Para el análisis de una marca o mercado, se requiere de la categorización de grupos de personas con características similares, estudio que permitirá identificar su comportamiento, consumo e intereses, permitiendo así que el producto o servicio a ofrecer sea mucho más específico y certero con el cliente o nicho de mercado.
+    p.mb-5 Para el análisis de una marca o mercado, se requiere de la categorización de grupos de personas con características similares, estudio que permitirá identificar su comportamiento, consumo e intereses, permitiendo así que el producto o servicio a ofrecer sea mucho más específico y certero con el cliente o nicho de mercado.
+
+    .h1.mb-6 Análisis del consumidor
 
     .tarjeta.tarjeta--amarillo-claro.mb-6
       .tarjeta--amarillo-claro__titulo
@@ -575,7 +573,7 @@ section.container.pt-4
             | en las ofertas y hasta en las mismas empresas, para que se ajusten a sus requerimientos y necesidades.
 
 
-    .h1.mb-5 Perfil del consumidor
+    .h1.mb-5 Perfiles del consumidor
 
     p.mb-5 Es la descripción de las características de los consumidores de un producto o usuarios de un servicio determinado y un modelo de pensamiento. Es UNA de las variables para la definición de cualquier estrategia de marketing.
       br
@@ -651,7 +649,11 @@ section.container.pt-4
 
           .col-md-8.mb-4.mb-md-5
             .h1 Vanguardista
-            p.mb-0 Es un destacado grupo social inconforme y extremadamente original. Genera cambios y origina nuevos conceptos, es innovador, rompe esquemas y paradigmas de su entorno directo generando cambios que se reflejan como tendencias globales. multicultural, dinámico y explorador constante de su propio desarrollo personal, emocional y profesional.
+            p.mb-0 es un destacado grupo social inconforme y extremadamente original. Genera cambios y origina nuevos conceptos, es innovador, rompe esquemas y paradigmas de su entorno directo, generando cambios que se reflejan como tendencias globales.
+              br
+              br
+              strong Características: 
+              | cambia y modifica fácilmente su escala de valoraciones. No tiene apegos ni crea compromisos con ningún formato. Vive pendiente de lo que surge en las grandes capitales del mundo. La innovación es parte de su vida diaria, es cambiante e inestable. Lo motiva explorar referentes en otras culturas para convertirse en habitante planetario. Su vida viaja a la velocidad del Internet. Todo es recibido, aceptado, permitido y adoptado tal vez solo por hoy. Es atrevido, le gusta el juego, el riesgo, lo novedoso.
         
           .col
             .h1 Características
@@ -681,14 +683,6 @@ section.container.pt-4
               li Concentra su atención en todas aquellas rarezas y excentricidades que el mercado le ofrece o de las que él mismo se apropia.
               li Prefiere proyectar una imagen nueva a regirse por un canon establecido.
               li Su apariencia personal es original e innovadora pero extremadamente llamativa.
-
-
-
-    .tarjeta.tarjeta--amarillo.tarjeta--comillas.mb-6
-      .h1.mb-0 El estilo personal es un proceso creativo constante y atractivo, que evoluciona el ser.
-        br
-        br
-        | No tiene reglas, excepto las que uno se ponga; las cuales también pueden ser ajustadas.
       
 
     .h1.mb-5 Estilos del consumidor
@@ -698,12 +692,18 @@ section.container.pt-4
 
     .tarjeta.tarjeta--amarillo-claro.mb-6
       .tarjeta--amarillo-claro__titulo
-        .h11 ¿Que es <br>el estilo? 
+        .h11 El estilo
       .row
         .col-lg-4.mb-5
         .col-lg-8
           p.mb-0 Es una selección y acumulación de vivencias, referentes, culturas e influencias que se prioriza, valora y manifiesta con nuestra actitud y expresión a través de los objetos que elegimos para llevar en nuestra indumentaria y nuestro diario vivir, lo que se contribuye en la coherencia en el habitus, hábito, hábitat que determinará un estilo personal, particular y plural.
 
+
+    .tarjeta.tarjeta--amarillo.tarjeta--comillas.mb-6
+      .h1.mb-0 El estilo personal es un proceso creativo constante y atractivo, que evoluciona el ser.
+        br
+        br
+        | No tiene reglas, excepto las que uno se ponga; las cuales también pueden ser ajustadas.
 
     .tarjeta.tarjeta--crema.mb-5
       Slyder(clase-tarjeta="tarjeta--lavanda")
@@ -761,7 +761,7 @@ section.container.pt-4
           .col-12.mb-4
             .h1 Características
             ul
-              li El estilo bohemio es relajado, confortable y lo más importante, una expresión personal.El estilo minimalista requiere de disciplina, consistencia y gran atención por la calidad.
+              li El estilo minimalista requiere de disciplina, consistencia y gran atención por la calidad.
               li La mayoría de los minimalistas son metódicos en el momento de vestirse y tienen un gran sentido y conciencia de sí mismos.
               li Son muy fieles a algunas marcas que les garantizan cortes y diseños perfectos, telas de alta calidad y tecnológicas.
 
@@ -852,7 +852,7 @@ section.container.pt-4
             .h11 ¿Quiénes? 
           p.mb-0 Un grupo de personas dedicadas a ser cazadores de tendencias, los llamados "coolhunter" detectar y predecir las novedades que vendrán en los campos de la moda y el consumo.
 
-          
+    .h1.mb-5 Características de las tendencias.      
 
     .tarjeta.tarjeta--lavanda-claro.tarjeta--numerada.py-4.mb-4
       .tarjeta--numerada__numero 
@@ -871,7 +871,7 @@ section.container.pt-4
       .tarjeta--numerada__numero 
         span 3
       .h1 Diversificación
-      .h3.mb-0 Diferentes variables en donde se puede manifestarse la tendencia, sus conceptos, y historias.
+      .h3.mb-0 Diferentes variables en donde se puede manifestarse la tendencia, sus conceptos, e historias.
 
 
     .tarjeta.tarjeta--lavanda-claro.tarjeta--numerada.py-4.mb-6
@@ -958,11 +958,11 @@ section.container.pt-4
     .tarjeta.tarjeta--amarillo.tarjeta--pregunta.mb-5
       p.mb-0 
         strong La clave es: 
-        | Identifiquemos los principales factores que afectan el pronóstico de las tendencias.
+        | identifiquemos los principales factores que afectan el pronóstico de las tendencias.
         br
         br
         strong Estaciones: 
-        | Las tendencias se basan en las estaciones de primavera (spring), verano (Summer), otoño (Autumn) e invierno. (Winter) 
+        | las tendencias se basan en las estaciones de primavera (spring), verano (Summer), otoño (Autumn) e invierno. (Winter) 
       
     hr.mb-5
 
@@ -991,7 +991,7 @@ section.container.pt-4
 
     .tarjeta.tarjeta--amarillo-claro.mb-6
       .tarjeta--amarillo-claro__titulo
-        .h11 ¿Qué es un<br>moodboard?
+        .h11 ¿Qué es un cuadro<br>metamórfico?
       .row
         .col-lg-4.mb-5
         .col-lg-8
@@ -1082,26 +1082,18 @@ section.container.pt-4
       .col-md-6.col-lg-4.mb-4
         .tarjeta.tarjeta--lavanda.full-height
           img.mb-4(src="@/assets/images/pages/tema1/img71.svg")
-          .h1 ¿Para qué sirve? 
+          .h1 ¿Cómo se realiza?
           p.mb-0 Se organizan las ideas utilizando un esquema tipo tabla; para generar varias opciones de cada una de esas partes (estas siempre deben comunicar el concepto de la marca).
 
     .tarjeta.tarjeta--amarillo.tarjeta--pregunta.mb-5
-      p.mb-0 
-        strong La clave es: 
-        | Identifiquemos los principales factores que afectan el pronóstico de las tendencias.
-        br
-        br
-        strong Estaciones: 
-        | Las tendencias se basan en las estaciones de primavera (spring), verano (Summer), otoño (Autumn) e invierno. (Winter) 
+      .h2.mb-0 La clave es: 
+        strong cada variación debe ser coherente con el concepto, las siluetas, formas, sensibilidad y demás percepciones definidas en los conceptos.
       
     .tarjeta.tarjeta--azul-obscuro.tarjeta--admiracion.mb-5
       p.mb-0 Ejemplo: 
         br
         br
         strong ¿Cómo hacer que las variaciones basadas en un moodboard sean coherentes con un concepto?
-        br
-        br
-        | Nota: Todo el texto, tiene imágenes visuales de ref. Las cuales complementan la información entregada - anexar imágenes ppt de referencia. 
 
     hr.mb-5
 

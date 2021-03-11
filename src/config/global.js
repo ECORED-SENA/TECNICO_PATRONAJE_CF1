@@ -20,7 +20,7 @@ export const menuPrincipal = {
     {
       routeName: 'introduccion',
       icon: 'fa fa-file-text',
-      title: 'Introduccion',
+      title: 'Introducción',
       desarrolloContenidos: true,
     },
     {
@@ -28,6 +28,7 @@ export const menuPrincipal = {
       icon: 'fa fa-file-text',
       title: '1. Diseño y moda',
       desarrolloContenidos: true,
+      desarrolloContenidosIcono: 1,
       actividad: true,
       subMenu: [
         {
@@ -62,6 +63,7 @@ export const menuPrincipal = {
       icon: 'fa fa-file-text',
       title: '2. Ficha técnica de diseño (software de diseño)',
       desarrolloContenidos: true,
+      desarrolloContenidosIcono: 2,
       actividad: true,
       subMenu: [
         {
@@ -112,6 +114,7 @@ export const menuPrincipal = {
       icon: 'fa fa-file-text',
       title: '3. Fundamentación Textil',
       desarrolloContenidos: true,
+      desarrolloContenidosIcono: 3,
       actividad: true,
       subMenu: [
         {
@@ -241,41 +244,41 @@ export const glosario = [
   {
     termino: 'Bidimensional',
     significado:
-      'Que se representa según su altura y su anchura y no su profundidad.',
+      'que se representa según su altura y su anchura y no su profundidad.',
   },
   {
     termino: 'Diseño',
     significado:
-      'Actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
   },
   {
     termino: 'Moda',
     significado:
-      'Hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+      'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
   },
   {
     termino: 'MoodBoard',
     significado:
-      'Su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+      'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
   },
   {
     termino: 'Pirognóstico',
     significado:
-      'Ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+      'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
   },
   {
     termino: 'Software',
     significado:
-      'Término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
   },
   {
     termino: 'Tipología',
     significado:
-      'Estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+      'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
   },
   {
     termino: 'Vectores',
     significado:
-      'En software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+      'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
   },
 ]

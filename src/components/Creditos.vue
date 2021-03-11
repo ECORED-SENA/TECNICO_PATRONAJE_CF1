@@ -70,7 +70,7 @@ footer
           p.footer-texto
             strong Leyson Fabian Castaño Perez
             br
-            span.text-small Integración de recursos y pruebas
+            span.text-small Soporte organizacional
 
           p.footer-texto
             strong Jesus Antonio Vecino Valero

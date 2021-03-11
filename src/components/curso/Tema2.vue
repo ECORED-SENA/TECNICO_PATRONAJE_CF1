@@ -83,7 +83,7 @@ section.container.pt-4
             img(src="@/assets/images/pages/tema1/img80.svg")
           .col-sm-8
             .h11.mb-3 Dibujo plano
-            p.mb-0 representación detallada de una prenda, es decir, se deben identificar todas las características técnicas de la prenda, pespuntes, botones, costuras, pinzas, acabados. No tiene movimiento y se debe identificar delantero y posterior.
+            p.mb-0 Representación detallada de una prenda, es decir, se deben identificar todas las características técnicas de la prenda, pespuntes, botones, costuras, pinzas, acabados. No tiene movimiento y se debe identificar delantero y posterior.
 
     .h1.mb-5 Tipos de trazos - ejercicios de aprestamiento
 
@@ -169,7 +169,7 @@ section.container.pt-4
         .row.justify-content-sm-around.align-items-center.pt-md-5
           .col.flex-sm-grow-0
             .h11.mb-3 Superior:
-            p.mb-3 de la cintura hacia abajo.
+            p.mb-3 de la cintura hacia arriba.
           .col.flex-sm-grow-0.d-none.d-sm-block
             img.categorias-prendas__arrow(src="@/assets/images/pages/tema1/iconr.svg")
           .col.flex-sm-grow-0
@@ -348,7 +348,7 @@ section.container.pt-4
       allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
       allowfullscreen=''
     )
-    .h3.small.mb-6 Interfaz programa CAD
+    .h3.small.mb-6 DILIGENCIAMIENTO DE FICHA TÉCNICA DE PRENDA 
 
     .tarjeta.tarjeta--amarillo-claro.mb-6
       .tarjeta--amarillo-claro__titulo
@@ -356,11 +356,11 @@ section.container.pt-4
       .row
         .col-lg-4.mb-5
         .col-lg-8
-          p.mb-0 Son documentos que contienen la información necesaria para la fabricación de un producto. dichos documentos serán consultados en los distintos procesos de producción. Los datos para incluir deben ser detallados.
+          p.mb-0 Son documentos que contienen la información necesaria para la fabricación de un producto. Dichos documentos serán consultados en los distintos procesos de producción. Los datos para incluir deben ser detallados.
 
     .h1.mb-5 Tipos
 
-    p.mb-6 Según el volumen, la cantidad y rigurosidad de la producción en cumplir parámetros de calidad se decide los diferentes requerimientos técnicos que debe llevar la ficha técnica.
+    p.mb-6 según el volumen, la cantidad, rigurosidad de la producción y cumplimiento de parámetros de calidad, se deciden los diferentes requerimientos técnicos que debe llevar la ficha técnica.
 
     img.mb-6( src="@/assets/images/pages/tema1/img88.svg")
 
@@ -447,10 +447,12 @@ section.container.pt-4
 
 <script>
 import Slyder from '../Slyder'
+import Acordion from '../Acordion'
 export default {
   name: 'Tema2',
   components: {
     Slyder,
+    Acordion,
   },
 }
 </script>
